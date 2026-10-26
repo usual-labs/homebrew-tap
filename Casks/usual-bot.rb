@@ -1,6 +1,6 @@
 cask "usual-bot" do
-  version "0.2.0"
-  sha256 "f973e48084c087cd55cdcf53882176d267fdc006b0c9fddcef7e8b286e9e8eea"
+  version "0.3.0"
+  sha256 "1aa9de30c9160ddf16c1c5727115ed12511a1e0ed6d06de3d01517cfe4a71890"
 
   url "https://github.com/usual-labs/usual-bot/releases/download/v#{version}/UsualBot-#{version}.dmg"
   name "Usual Bot"
